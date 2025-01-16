@@ -20,4 +20,10 @@ Keep in mind that while only Internet access and a GitHub account is required to
   * VS Code compatibility & installation
     * Alternatively, another IDE supported by GitHub Copilot may be used
   * Python3 installation (as well as additional Python libraries)
-  * 
+
+## Contributors
+Erika Dietrick 
+Brian Dietrick
+
+## License
+Apache 2.0
