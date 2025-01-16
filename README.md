@@ -7,13 +7,23 @@
 
 
 ## How To Progress Through The Course
-
+L0, L1, L2
 
 ### Prerequisites 
 
 ### Getting Started
+* Internet access
+* Personal computer
 
-### Course Modules 
+## L0 Course Modules 
+Total Lecture Time: 90 minutes
+* 1.0 How To Think Programmatically
+* 1.1 Developer Environment Setup
+* 1.2 Data Types & Variables
+
+## L1 Course Modules
+
+## L2 Course Modules
 
 ## Future Requirements
 Keep in mind that while only Internet access and a GitHub account is required to begin this course, the following will become required along the way:
