@@ -1,4 +1,4 @@
-# Learn Network Automation Using GitHub Copilot
+# Learn Coding For Network Automation Using GitHub Copilot
 
 ## Audience
 * Attendees of DEVNET-2720 Teaching Coding Skills in the Age of AI
