@@ -1,4 +1,12 @@
 # Learn Coding For Network Automation Using GitHub Copilot
+This repository is a course that takes network engineers step-by-step through writing network automation with...get this...AI! (Yes, AI can be used not just for cheating, but as a teaching resource. Here is the full Cisco Live talk for reference.) 
+
+AI is transforming our world and how we code; rather than deem it all good or all bad, we have used this as an opportunity to fix what is a largely broken developer curriculum. Specifically, we have taken the time to do the following: 
+* Determined what foundational coding topics network engineers **actually** need to know to get started.
+* Provided a roadmap of these topics that has been subdivided based on when various features of AI should be introduced.
+* Created custom, 15-min-or-less educational videos for prerequisite topics
+* Designed practical and reasonable exercises to apply learning
+* Provided an assessment guide for mentors/leaders to have practical conversations around learning modules
 
 ## Audience
 * Attendees of DEVNET-2720 Teaching Coding Skills in the Age of AI
@@ -32,8 +40,8 @@ Keep in mind that while only Internet access and a GitHub account is required to
   * Python3 installation (as well as additional Python libraries)
 
 ## Contributors
-* Erika Dietrick
-* Brian Dietrick
+* Erika Dietrick, Developer Advocate @ Cisco Systems
+* Brian Dietrick, Assistant Professor @ East Carolina University
 
 ## License
 Apache 2.0
