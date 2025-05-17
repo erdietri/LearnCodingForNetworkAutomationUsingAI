@@ -1,5 +1,5 @@
 # Learn Coding For Network Automation Using GitHub Copilot
-This repository is a course that takes network engineers step-by-step through writing network automation with...get this...AI! (Yes, AI can be used not just for cheating, but as a teaching resource. Here is the full Cisco Live talk for reference.) 
+This repository is a course that takes network engineers step-by-step through writing Python code for network automation with...get this...AI! (Yes, AI can be used not just for cheating, but as a teaching resource. Here is the full [Cisco Live talk](https://www.ciscolive.com/on-demand/on-demand-library.html?search=Erika%20Dietrick#/session/1740098448290001dyuq) for reference.) 
 
 AI is transforming our world and how we code; rather than deem it all good or all bad, we have used this as an opportunity to fix what is a largely broken developer curriculum. Specifically, we have taken the time to do the following: 
 * Determined what foundational coding topics network engineers **actually** need to know to get started.
