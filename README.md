@@ -24,7 +24,7 @@ L0, L1, L2
 * Personal computer
 
 ## L0 Course Modules 
-Total Lecture Time: 90 minutes
+Total Lecture Time: ______
 * 1.0 How To Think Programmatically
 * 1.1 Developer Environment Setup
 * 1.2 Data Types & Variables
