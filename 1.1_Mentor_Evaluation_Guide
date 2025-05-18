@@ -1,0 +1,11 @@
+* Verify that the learner successfully installed VS Code by asking them to open the application
+* Verify that Python was successfully installed by asking them to run python3 --version
+* Verify that the learner successfully ran the file created in the Practice Exercises.
+* Ask what amount of spacing the learner currently has configured.
+* Ask the learner to create a new Python file.
+* Have a conversation with the learner:
+  * What was the most challenging part of the setup, and why?
+  * What steps would you take if you wanted to find a different developer environment to use? Explain your reasoning.
+  * Were there any steps or parts of the setup were familiar to you already as a network engineer? What did you find to be the most familiar?
+
+Make sure the learner has done bullets 1, 2, 3, and 5 correctly, as well as had a conversation that drew from personal thoughts and experiences (not AI), before passing them on to the next module. They need not be an expert or highly comfortable in the IDE, but all components must be installed successfully and they must feel comfortable starting their own Python file.
