@@ -24,14 +24,18 @@ L0, L1, L2
 * Personal computer
 
 ## L0 Course Modules 
-Total Lecture Time: ______
-* 1.0 How To Think Programmatically
-* 1.1 Developer Environment Setup
+These are the concepts you must learn and practice *before* you start using AI:
+
+* Course Intro (2 min)
+* 1.0 How To Think Programmatically (13 min)
+* 1.1 Developer Environment Setup (11 min)
 * 1.2 Data Types & Variables
 
 ## L1 Course Modules
+Concepts in this module will be learned with the help of AI. We'll learn how to use AI as a valuable teaching resource:
 
 ## L2 Course Modules
+Finally, we get to strategic code generation! We'll start using an AI coding assistant to generate code where it makes sense:
 
 ## Future Requirements
 Keep in mind that while only Internet access and a GitHub account is required to begin this course, the following will become required along the way:
